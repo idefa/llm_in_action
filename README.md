@@ -1,2 +1,12 @@
-# llm_in_action
-大语言模型（Large Language Model, LLM）从入门到放弃
+# 大语言模型LLM从入门到放弃
+
+大语言模型（Large Language Model, LLM）从入门到放弃, 纯干货，纯实战。
+
+# 1.大模型之开发环境准备
+
+# 2.大模型上手试玩
+
+# 3.大模型应用开发
+
+# 4.大模型理论基础
+
